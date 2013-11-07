@@ -2,7 +2,7 @@ Source: ipad-charge
 Section: misc
 Priority: extra
 Maintainer: Jevgeni Kiski <yozik04@gmail.com>
-Build-Depends: debhelper (>= 9), libusb-1.0-0
+Build-Depends: debhelper (>= 9), libusb-1.0-0-dev
 Standards-Version: 3.9.4
 Homepage: https://github.com/yozik04/ipad_charge
 #Vcs-Git: git@github.com:yozik04/ipad_charge.git
