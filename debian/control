@@ -1,7 +1,7 @@
 Source: ipad-charge
-Section: unknown
+Section: ipad-charge
 Priority: extra
-Maintainer: Jevgeni <yozik04@gmail.com>
+Maintainer: Jevgeni Kiski <yozik04@gmail.com>
 Build-Depends: debhelper (>= 9), libusb-1.0-0
 Standards-Version: 3.9.4
 Homepage: https://github.com/yozik04/ipad_charge
@@ -12,4 +12,5 @@ Package: ipad-charge
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Apple charger utility
- USB charging control utility used to enable/disable charging of an Apple device connected to USB port.
+ USB charging control utility used to enable/disable
+ charging of an Apple device connected to USB port.
