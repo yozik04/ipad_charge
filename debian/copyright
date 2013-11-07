@@ -1,0 +1,9 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ipad-charge
+Source: git@github.com:yozik04/ipad_charge.git
+
+Files: *
+Copyright: 2013 Max Korenkov
+           2013 Ondrej Zary
+           2013 Pranava Swaroop
+License: GPL
